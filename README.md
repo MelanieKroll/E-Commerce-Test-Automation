@@ -3,7 +3,7 @@ Ein End-to-End-Testautomatisierungsprojekt für eine E-Commerce-Website, das Pag
 
 ---
 
-## 🚀 Getestete Workflows
+Getestete Workflows
 
 Die Testsuite deckt die folgenden kritischen Benutzer-Workflows ab:
 
@@ -13,7 +13,7 @@ Die Testsuite deckt die folgenden kritischen Benutzer-Workflows ab:
 
 ---
 
-## 🛠️ Technische Details und Best Practices
+Technische Details und Best Practices
 
 ### **Problem 1: Nicht anklickbare Elemente**
 **Fehler:** Bei der Automatisierung des "Add to cart"-Buttons trat ein Fehler auf, der besagte, dass das Element von einem anderen Element verdeckt wird.
@@ -27,7 +27,7 @@ Um eine wiederholbare und skalierbare Testumgebung zu schaffen, wurde eine Hilfs
 
 ---
 
-## 📂 Projektstruktur
+Projektstruktur
 
 * **`cypress/e2e/`**: Enthält die Test-Spezifikationen (`.cy.js`-Dateien) für jeden Workflow.
 * **`cypress/page-objects/`**: Enthält die Page Objects, die eine saubere und wartbare Testautomatisierungsstruktur bieten.
@@ -35,7 +35,7 @@ Um eine wiederholbare und skalierbare Testumgebung zu schaffen, wurde eine Hilfs
 
 ---
 
-## ▶️ Wie man die Tests ausführt
+Wie man die Tests ausführt
 
 1.  Stelle sicher, dass alle Node.js-Abhängigkeiten installiert sind: `npm install`.
 2.  Öffne den Cypress Test Runner: `npx cypress open`.
