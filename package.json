@@ -1,0 +1,24 @@
+{
+  "name": "e-commerce-test-automation",
+  "version": "1.0.0",
+  "description": "Ein End-to-End-Testautomatisierungsprojekt für eine E-Commerce-Website, das Page Object Model, API-Tests, Visual Regression und CI/CD demonstriert.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieKroll/E-Commerce-Test-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MelanieKroll/E-Commerce-Test-Automation/issues"
+  },
+  "homepage": "https://github.com/MelanieKroll/E-Commerce-Test-Automation#readme",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
